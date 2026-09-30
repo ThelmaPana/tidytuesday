@@ -250,6 +250,13 @@ ggplot(placement_ok, aes(x = share_exp, y = share_hos)) +
     ) +
     theme_minimal() +
     theme(panel.grid.minor = element_blank())
+ggsave(
+    here::here("2026", "2026-09-29", "health_access_placement.png"),
+    width = 8,
+    height = 7,
+    dpi = 300,
+    bg = "white"
+)
 
 
 ## 3. Pharmacies vs hospitals: what does the source capture? ----

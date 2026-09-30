@@ -21,8 +21,6 @@ On mesure l'accès par la part de la population vivant à moins de 1 km d'un hô
 
 L'accès varie peu avec la population du centre urbain (ρ de Spearman = −0,13), mais augmente nettement avec la densité de population (ρ = 0,32). Les régions aux villes les plus étalées ont l'accès le plus faible : médiane de 12 % en Amérique du Nord et de 17 % en Australie–Nouvelle-Zélande, contre 30 à 38 % ailleurs.
 
-![](health_access_density.png)
-
 ### Les hôpitaux sont-ils là où vivent les gens ?
 
 On compare la couverture observée à celle qu'on obtiendrait avec le même nombre d'hôpitaux placés au hasard sur la même surface (modèle nul : `1 − exp(−n·π/surface)`). Au-dessus de la diagonale, les hôpitaux sont mieux placés que le hasard.
@@ -36,5 +34,3 @@ Quand la couverture attendue dépasse 75 %, une ville ne peut plus faire mieux q
 ### Pharmacies ou hôpitaux ?
 
 Nombre de pharmacies par hôpital, par pays (au moins 10 centres urbains renseignés). L'Espagne et l'Italie, connues pour leurs réseaux de pharmacies très denses, sont parmi les plus basses : ce ratio reflète sans doute davantage le recensement des établissements par la source que l'offre réelle.
-
-![](health_access_pharmacies.png)
