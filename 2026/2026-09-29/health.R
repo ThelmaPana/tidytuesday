@@ -228,4 +228,4 @@ map_pc2 <- base_map(pc2) +
 fig <- plot_grid(map_pc1, map_pc2, ncol = 1)
 fig
 
-ggsave("20260929.png", fig, width = 8, height = 9, dpi = 300, bg = "white")
+ggsave(here::here("2026", "2026-09-29", "health.png"), fig, width = 8, height = 9, dpi = 300, bg = "white")
