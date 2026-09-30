@@ -2,6 +2,8 @@
 
 Mes contributions à [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), en R.
 
+C'est avant tout un projet bac à sable pour tester [Claude Code](https://claude.com/claude-code) : les analyses sont réalisées avec lui, en vue d'une future formation.
+
 Un dossier par semaine, `AAAA/AAAA-MM-JJ/`, avec le script et la figure.
 
 | Date | Jeu de données | Analyse | Figure |
