@@ -7,7 +7,7 @@ Un dossier par semaine, `AAAA/AAAA-MM-JJ/`, avec le script et la figure.
 | Date | Jeu de données | Analyse | Figure |
 |---|---|---|---|
 | 2026-09-29 | Accès aux soins dans les centres urbains | ACP (FactoMineR) et cartes des deux premiers axes | [![](2026/2026-09-29/health.png)](2026/2026-09-29/) |
-| 2026-09-29 | Accès aux soins dans les centres urbains | Accès à l'hôpital selon la taille et la densité des villes | [![](2026/2026-09-29/health_density.png)](2026/2026-09-29/) |
+| 2026-09-29 | Accès aux soins dans les centres urbains | Accès à l'hôpital : densité, placement (modèle nul) et pharmacies | [![](2026/2026-09-29/health_access_placement.png)](2026/2026-09-29/) |
 
 ## Reproduire
 
